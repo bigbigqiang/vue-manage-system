@@ -1,3 +1,5 @@
+# 转载 #
+感谢作者
 # manage-system #
 基于Vue.js 2.x系列 + Element UI 的后台管理系统解决方案。[线上地址](http://blog.gdfengshuo.com/example/work/)
 
